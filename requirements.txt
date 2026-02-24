@@ -6,7 +6,7 @@ langchain-openai
 langchain-community
 langchain-huggingface
 langchain-pinecone
-pinecone-client
+pinecone
 python-dotenv
 sentence-transformers
 tiktoken
