@@ -5,8 +5,8 @@ langchain-core==1.2.14
 langchain-community==0.4.1
 langchain-huggingface==1.2.0
 langchain-openai==1.1.9
-langchain-pinecone==0.2.13
-pinecone==7.3.0
+langchain-pinecone==0.2.0
+pinecone==3.2.2
 python-dotenv==1.2.1
 sentence-transformers==5.2.3
 tiktoken==0.12.0
